@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Very Simple Ray Tracer Implementation"
-date:   2019-10-13 20:45:00 -0500
+date:   2015-10-13 20:45:00 -0500
 categories: [jekyll]
 ---
 
