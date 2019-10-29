@@ -24,6 +24,11 @@ github_username:  sx2gavin
 show_excerpts: true
 future: true
 
+minima:
+  social_links:
+    github: sx2gavin
+    linkedin: xiangyugavinluo
+
 # Build settings
 markdown: kramdown
 theme: minima
